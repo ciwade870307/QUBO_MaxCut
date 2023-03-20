@@ -1,0 +1,15 @@
+#lin schedule: nsweeps=100 b0=0.1 b1=3; rep0=0 nreps=10
+#algorithm: single-spin generic, variable degree
+#running 10 omp threads
+#init done in 0.0254061 s
+#work done in 0.000716925 s
+    -11571         1             0.1    example/G1.txt
+    -11542         1             0.1    example/G1.txt
+    -11540         1             0.1    example/G1.txt
+    -11539         1             0.1    example/G1.txt
+    -11538         2             0.2    example/G1.txt
+    -11535         1             0.1    example/G1.txt
+    -11525         1             0.1    example/G1.txt
+    -11524         1             0.1    example/G1.txt
+    -11520         1             0.1    example/G1.txt
+#outp done in 2.09808e-05 s

@@ -1,0 +1,34 @@
+#lin schedule: nsweeps=10000 b0=0.1 b1=3; rep0=0 nreps=1000
+#algorithm: single-spin generic, variable degree
+#running 32 omp threads
+#init done in 2.1577 s
+#work done in 2.00079 s
+     -2005       143           0.143    example/G8.txt
+     -2004        57           0.057    example/G8.txt
+     -2003         8           0.008    example/G8.txt
+     -2002        22           0.022    example/G8.txt
+     -2001         3           0.003    example/G8.txt
+     -2000         4           0.004    example/G8.txt
+     -1999       116           0.116    example/G8.txt
+     -1998       193           0.193    example/G8.txt
+     -1997        28           0.028    example/G8.txt
+     -1996       110            0.11    example/G8.txt
+     -1995        34           0.034    example/G8.txt
+     -1994        43           0.043    example/G8.txt
+     -1993        58           0.058    example/G8.txt
+     -1992        49           0.049    example/G8.txt
+     -1991        36           0.036    example/G8.txt
+     -1990        17           0.017    example/G8.txt
+     -1989        23           0.023    example/G8.txt
+     -1988        14           0.014    example/G8.txt
+     -1987        12           0.012    example/G8.txt
+     -1986        10            0.01    example/G8.txt
+     -1985         2           0.002    example/G8.txt
+     -1984         8           0.008    example/G8.txt
+     -1983         4           0.004    example/G8.txt
+     -1982         1           0.001    example/G8.txt
+     -1981         2           0.002    example/G8.txt
+     -1980         1           0.001    example/G8.txt
+     -1979         1           0.001    example/G8.txt
+     -1977         1           0.001    example/G8.txt
+#outp done in 9.29832e-05 s

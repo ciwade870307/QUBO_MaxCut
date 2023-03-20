@@ -1,0 +1,33 @@
+#lin schedule: nsweeps=10000 b0=0.1 b1=3; rep0=0 nreps=1000
+#algorithm: single-spin generic, variable degree
+#running 32 omp threads
+#init done in 2.17308 s
+#work done in 1.97192 s
+     -2006       296           0.296    example/G7.txt
+     -2005        12           0.012    example/G7.txt
+     -2003         2           0.002    example/G7.txt
+     -2002         1           0.001    example/G7.txt
+     -2001        30            0.03    example/G7.txt
+     -2000       121           0.121    example/G7.txt
+     -1999        49           0.049    example/G7.txt
+     -1998        12           0.012    example/G7.txt
+     -1997         6           0.006    example/G7.txt
+     -1996        85           0.085    example/G7.txt
+     -1995        73           0.073    example/G7.txt
+     -1994        49           0.049    example/G7.txt
+     -1993        62           0.062    example/G7.txt
+     -1992        25           0.025    example/G7.txt
+     -1991        18           0.018    example/G7.txt
+     -1990        46           0.046    example/G7.txt
+     -1989        22           0.022    example/G7.txt
+     -1988        16           0.016    example/G7.txt
+     -1987        24           0.024    example/G7.txt
+     -1986        14           0.014    example/G7.txt
+     -1985        11           0.011    example/G7.txt
+     -1984         6           0.006    example/G7.txt
+     -1983        11           0.011    example/G7.txt
+     -1982         2           0.002    example/G7.txt
+     -1981         4           0.004    example/G7.txt
+     -1980         2           0.002    example/G7.txt
+     -1978         1           0.001    example/G7.txt
+#outp done in 8.70228e-05 s

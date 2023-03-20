@@ -1,0 +1,6 @@
+Instance,BKS,Cut_best,Acc_best,Cut_avg,Acc_avg,Std,t_avg,# Opts/ Total runs,Note,F
+G1.txt,11624,11624,100,11588.03,99.6906,0.15421,5.769,7/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 0/ F = ,1
+G1.txt,11624,11624,100,11590.91,99.7153,0.1392,5.7856,7/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 0/ F = ,2
+G1.txt,11624,11624,100,11589.1,99.6998,0.14821,5.6161,3/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 0/ F = ,4
+G1.txt,11624,11624,100,11592.42,99.7283,0.15811,5.8443,12/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 0/ F = ,8
+G1.txt,11624,11624,100,11590.16,99.7089,0.14953,5.6769,8/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 0/ F = ,16

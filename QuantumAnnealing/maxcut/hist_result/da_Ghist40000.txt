@@ -1,0 +1,2 @@
+Instance,BKS,Cut_best,Acc_best,Cut_avg,Acc_avg,Std,t_avg,# Opts/ Total runs
+G1,11624,11613.0,99.91,11613.00,99.91,0.00,13.306,0.0/1

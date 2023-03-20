@@ -1,0 +1,21 @@
+,BKS,Cut_best,Acc_best,Cut_avg,Acc_avg,Std,t_avg,# Opts/ Total runs,Note,,
+G1.txt,11624,11623,99.9914,11598.63,99.7817,0.14236,7.6793,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G2.txt,11620,11619,99.9914,11597.43,99.8058,0.10116,7.6225,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G3.txt,11622,11621,99.9914,11600.28,99.8131,0.12896,7.6017,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G4.txt,11646,11644,99.9828,11626.03,99.8285,0.10744,7.5896,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G5.txt,11631,11631,100,11609.7,99.8169,0.12777,7.595,1/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G6.txt,2178,2177,99.9541,2152.68,98.8375,0.82863,7.7462,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G7.txt,2006,2006,100,1980.39,98.7233,0.69133,7.5193,1/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G8.txt,2005,2004,99.9501,1984.58,98.9815,0.58677,7.5498,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G9.txt,2054,2053,99.9513,2025.4,98.6076,0.73761,7.5743,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G10.txt,2000,2000,100,1974.98,98.749,0.6184,7.5766,1/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G11.txt,564,562,99.6454,556.28,98.6312,0.53819,7.847,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G12.txt,556,554,99.6403,547.68,98.5036,0.5207,7.672,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G13.txt,582,578,99.3127,572.04,98.2887,0.55471,7.6653,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G14.txt,3064,3055,99.7063,3044,99.3473,0.15867,7.8804,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G15.txt,3050,3045,99.8361,3027.5,99.2623,0.22439,7.9023,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G16.txt,3052,3043,99.7051,3030.83,99.3064,0.1755,8.1622,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G17.txt,3047,3039,99.7374,3026,99.3108,0.14218,8.1666,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G18.txt,992,990,99.7984,967.17,97.497,0.99206,7.5635,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G19.txt,906,899,99.2274,881.06,97.2472,1.014,7.6573,0/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1
+G20.txt,941,941,100,912.72,96.9947,1.4083,7.5718,1/100,tempStart = 0.100000/ tempEnd = 0.010000/ E_offset_increase_rate = 1.000000/ sched = exp/ E_boost = 0/ tabu_tenure = 20/ F = ,1,1

@@ -1,0 +1,30 @@
+#exp schedule: nsweeps=10000 b0=0.1 b1=3; rep0=0 nreps=500
+#algorithm: single-spin generic, variable degree
+#running 32 omp threads
+#init done in 10.279 s
+#work done in 7.43352 s
+      -906       127           0.254    example/G19.txt
+      -905        38           0.076    example/G19.txt
+      -904        86           0.172    example/G19.txt
+      -903        62           0.124    example/G19.txt
+      -902        71           0.142    example/G19.txt
+      -901        21           0.042    example/G19.txt
+      -900        17           0.034    example/G19.txt
+      -899        16           0.032    example/G19.txt
+      -898         6           0.012    example/G19.txt
+      -897         6           0.012    example/G19.txt
+      -895         5            0.01    example/G19.txt
+      -894         9           0.018    example/G19.txt
+      -893         7           0.014    example/G19.txt
+      -892         6           0.012    example/G19.txt
+      -891         1           0.002    example/G19.txt
+      -890         4           0.008    example/G19.txt
+      -889         7           0.014    example/G19.txt
+      -888         4           0.008    example/G19.txt
+      -887         1           0.002    example/G19.txt
+      -886         2           0.004    example/G19.txt
+      -885         1           0.002    example/G19.txt
+      -884         3           0.006    example/G19.txt
+avg_en: -902.29
+#outp done in 0.000252962 s
+Avg time0.0354255 s

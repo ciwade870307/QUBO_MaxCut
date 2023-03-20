@@ -1,0 +1,17 @@
+#exp schedule: nsweeps=10000 b0=0.1 b1=3; rep0=0 nreps=500
+#algorithm: single-spin generic, variable degree
+#running 32 omp threads
+#init done in 9.47546 s
+#work done in 10.4017 s
+     -2178       227           0.454    example/G6.txt
+     -2177        63           0.126    example/G6.txt
+     -2176       101           0.202    example/G6.txt
+     -2175        77           0.154    example/G6.txt
+     -2174        10            0.02    example/G6.txt
+     -2173        13           0.026    example/G6.txt
+     -2172         6           0.012    example/G6.txt
+     -2170         1           0.002    example/G6.txt
+     -2165         2           0.004    example/G6.txt
+avg_en: -2176.66
+#outp done in 0.000150919 s
+Avg time0.0397546 s

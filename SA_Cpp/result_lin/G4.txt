@@ -1,0 +1,30 @@
+#lin schedule: nsweeps=10000 b0=0.1 b1=3; rep0=0 nreps=1000
+#algorithm: single-spin generic, variable degree
+#running 32 omp threads
+#init done in 2.14636 s
+#work done in 1.98123 s
+    -11646        97           0.097    example/G4.txt
+    -11645         3           0.003    example/G4.txt
+    -11644         3           0.003    example/G4.txt
+    -11641       339           0.339    example/G4.txt
+    -11640        98           0.098    example/G4.txt
+    -11639        13           0.013    example/G4.txt
+    -11638       318           0.318    example/G4.txt
+    -11637        32           0.032    example/G4.txt
+    -11636         1           0.001    example/G4.txt
+    -11634        33           0.033    example/G4.txt
+    -11633         8           0.008    example/G4.txt
+    -11632        12           0.012    example/G4.txt
+    -11631         2           0.002    example/G4.txt
+    -11630         2           0.002    example/G4.txt
+    -11629         1           0.001    example/G4.txt
+    -11628         7           0.007    example/G4.txt
+    -11627        10            0.01    example/G4.txt
+    -11626         4           0.004    example/G4.txt
+    -11625         3           0.003    example/G4.txt
+    -11624         5           0.005    example/G4.txt
+    -11623         3           0.003    example/G4.txt
+    -11622         4           0.004    example/G4.txt
+    -11621         1           0.001    example/G4.txt
+    -11619         1           0.001    example/G4.txt
+#outp done in 0.000103951 s
